@@ -6,6 +6,9 @@ Welcome to my latest Tableau dashboard, showcasing real-time weather data extrac
 
 Each date is meticulously laid out, offering a detailed snapshot of various meteorological factors crucial for planning and preparation. From daily temperature variations to feels-like temperatures, wind speeds, visibility metrics, humidity levels, and cloud cover, every aspect is meticulously charted to offer a holistic understanding of weather patterns over the forecasted period.
 
+## Data Source
+The weather data displayed in this dashboard is sourced from the Free Weather API provided by Visual Crossing. The API offers real-time weather information, including temperature, wind speed, visibility, humidity, and cloud cover, enabling accurate forecasting and analysis.
+
 ## Features
 
 - Detailed weather data for Delhi covering the next 15 days.
